@@ -1,1 +1,12 @@
- 
+.
+├── _config.yml       # 站点配置
+├── _includes/        # 可重用组件
+│   └── head.html
+├── _layouts/         # 页面模板
+│   └── default.html
+├── assets/           # 静态资源
+│   ├── css/
+│   │   └── style.css
+│   └── images/
+├── index.md          # 主页内容
+└── projects.md       # 项目展示页 

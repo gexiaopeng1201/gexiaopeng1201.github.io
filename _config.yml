@@ -1,1 +1,20 @@
- 
+# 基础配置
+title: 你的名字
+description: 你的个人主页
+baseurl: ""
+url: "https://<username>.github.io" # 替换为你的GitHub Pages地址
+
+# 社交链接
+social:
+  github: yourusername
+  linkedin: yourlinkedin
+  twitter: yourtwitter
+  email: your@email.com
+
+# 主题设置
+theme: jekyll-theme-cayman
+
+# 部署配置
+destination: ./
+plugins_dir: ./_plugins
+build_dir: ./_site 
