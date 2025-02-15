@@ -2,7 +2,7 @@
 title: 你的名字
 description: 你的个人主页
 baseurl: ""
-url: "https://<username>.github.io" # 替换为你的GitHub Pages地址
+url: "https://nikumaru.github.io" # 替换为你的GitHub Pages地址
 
 # 社交链接
 social:
